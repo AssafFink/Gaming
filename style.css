@@ -1,6 +1,7 @@
 html, body {
     height: 100%;
-    background-image: linear-gradient(darkcyan, white);
+    background-color: burlywood;
+    font-weight: bold;
     color: darkmagenta;
 }
 
