@@ -1,6 +1,7 @@
-body {
-    background-color: cadetblue;
-    color: darkblue;
+html, body {
+    height: 100%;
+    background-image: linear-gradient(darkcyan, white);
+    color: darkmagenta;
 }
 
 h1, h2 {
